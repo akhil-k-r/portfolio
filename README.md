@@ -1,4 +1,11 @@
+# Akhil K R - Portfolio Website
 
-  <h2 align="center">Personal Portfolio Website</h2>
+Welcome to the GitHub repository for my personal portfolio website! This project is built using **HTML, CSS, and JavaScript** to showcase my work, skills, and projects.
 
-  This is a fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+## 🚀 Live Demo
+[Click here to visit my portfolio](#) ()
+
+## 📌 Features
+- Fully responsive design
+- Smooth scrolling and interactive animations
+- About Me section with skills and experience
