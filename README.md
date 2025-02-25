@@ -2,9 +2,6 @@
 
 Welcome to the GitHub repository for my personal portfolio website! This project is built using **HTML, CSS, and JavaScript** to showcase my work, skills, and projects.
 
-## 🚀 Live Demo
-[Click here to visit my portfolio](#https://akhil-k-r.github.io/portfolio/)
-
 ## 📌 Features
 - Fully responsive design
 - Smooth scrolling and interactive animations
@@ -25,3 +22,6 @@ Welcome to the GitHub repository for my personal portfolio website! This project
    cd portfolio
    ```
 3. Open `index.html` in your browser to view the portfolio.
+
+## 📜 License
+This project is open-source and feel free to contribute or fork the project to customize it for your own portfolio! 😊
